@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/general">
+        <menu>
+            <item
+                android:id="@+id/addNote"
+                android:icon="@drawable/ic_baseline_note_add_24"
+                android:title="@string/add_notes" />
+            <item
+                android:id="@+id/map"
+                android:icon="@drawable/ic_baseline_map_24"
+                android:title="@string/maps" />
+            <item
+                android:id="@+id/spent"
+                android:icon="@drawable/ic_baseline_attach_money_24"
+                android:title="@string/expenditure" />
+        </menu>
+    </item>
+
+    <item android:title="@string/support">
+
+        <menu >
+            <item
+                android:id="@+id/rating"
+                android:icon="@drawable/ic_baseline_star_half_24"
+                android:title="@string/rate_app" />
+            <item
+                android:id="@+id/shareapp"
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="@string/share_app" />
+        </menu>
+    </item>
+
+    <item android:title="@string/logout">
+
+        <menu >
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_baseline_logout_24"
+                android:title="@string/logout" />
+        </menu>
+    </item>
+</menu>

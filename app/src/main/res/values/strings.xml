@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">travel_go</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username_e_mail">Username/E-mail</string>
+    <string name="applogo_login">applogo_login</string>
+    <string name="signup">Signup</string>
+    <string name="name">Name</string>
+    <string name="already_registered_login_here">Already registered? Login Here</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="type_notes_here">Type Notes Here</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="my_travel_notes">My Travel Notes</string>
+    <string name="travelgo">TravelGO</string>
+    <string name="travel_planning_and_more">Travel Planning and More</string>
+    <string name="general">General</string>
+    <string name="support">Support</string>
+    <string name="logout">Logout</string>
+    <string name="notes">Notes</string>
+    <string name="maps">Maps</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_app">Rate App</string>
+    <string name="expenditure">Expenditure</string>
+    <string name="create_notes">Create Notes</string>
+    <string name="applogo_navbar">applogo_navbar</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="settings">Settings</string>
+    <string name="textview">TextView</string>
+    <string name="type_of_expense">Type Of Expense</string>
+    <string name="money_spent">Money Spent</string>
+    <string name="ads">ads</string>
+    <string name="spent">Spent</string>
+    <string name="type">Type</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_suru_you_want_to_delete_the_note">Are you suru you want to delete the Note..?</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete">DELETE</string>
+    <string name="title_activity_add_city">AddCity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="city_title">CITY_TITLE</string>
+    <string name="add_city">AddCity</string>
+    <string name="enter_city_name_here">Enter City Name Here</string>
+    <string name="title_activity_main__screen" />
+    <string name="title_activity_create_city_note">CreateCityNote</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string name="expense">Expense</string>
+    <string name="transportion">Transportion</string>
+    <string name="cost_ruppes">Cost(Ruppes)</string>
+    <string name="cost">Cost</string>
+    <string name="comments_remarks">Comments/Remarks</string>
+    <string name="comments_remark">Comments/Remark</string>
+    <string name="total">Total</string>
+    <string name="submit">Submit</string>
+    <string name="expense_type">Expense Type</string>
+    <string name="total_cost">Total cost</string>
+    <string name="details">Details</string>
+    <string name="places_around">Places Around</string>
+    <string name="search">search</string>
+    <string name="hotels_nearby">Hotels Nearby</string>
+    <string name="places_to_visit_nearby">Places to visit nearby</string>
+    <string name="airport_nearby">Airport Nearby</string>
+    <string name="Restraunts_nearby">Restraunts_nearby</string>
+    <string name="restraunts_nearby">Restraunts Nearby</string>
+    <string name="hospitals_nearby">Hospitals Nearby</string>
+
+
+</resources>
